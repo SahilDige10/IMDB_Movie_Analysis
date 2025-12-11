@@ -10,7 +10,7 @@ This project is an end-to-end data analysis of the **IMDB Top 1000 Movies** data
 The project concludes with a live **Interactive Dashboard** allowing stakeholders to filter data by genre, year, and revenue.
 
 ## 🚀 Live Demo
-**[Click Here to launch the Streamlit App]** *(Link to be added after deployment)*
+https://imdbmovieanalysis-sahil.streamlit.app/
 
 ## 📂 Repository Structure
 * `app.py`: The source code for the interactive Streamlit dashboard.
@@ -32,4 +32,5 @@ The project concludes with a live **Interactive Dashboard** allowing stakeholder
 ## 📦 How to Run Locally
 1. Clone the repository:
    ```bash
+
    git clone [https://github.com/your-username/imdb-analysis.git](https://github.com/your-username/imdb-analysis.git)
